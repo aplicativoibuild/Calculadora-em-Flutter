@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'button.dart';
+import '../button.dart';
 
 class ButtonRow extends StatelessWidget {
   final List<Button> buttons;

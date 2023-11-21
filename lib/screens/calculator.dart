@@ -1,8 +1,8 @@
 import 'package:calculator/models/memory.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import '../components/display.dart';
-import '../components/keyboard.dart';
+import '../../../components/display.dart';
+import '../../../components/keyboard.dart';
 
 class Calculator extends StatefulWidget {
   const Calculator({Key? key}) : super(key: key);

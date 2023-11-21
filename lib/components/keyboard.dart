@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'button_row.dart';
-import 'button.dart';
+import '../../button_row.dart';
+import '../../button.dart';
 
 class Keyboard extends StatelessWidget {
   final void Function(String) cb;
